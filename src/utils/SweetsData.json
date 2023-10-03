@@ -1,0 +1,62 @@
+
+{
+
+    
+    "sweets":[
+        {   "id":0,
+            "name":"Mini Gulab Jamuns",
+            "price":"$30",
+            "img":"sweets1.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {     "id":1,
+            "name":"100% Ghee Moong Dal Halwa",
+            "price":"$50",
+            "img":"halva.avif",
+            "description":"Rich moong dal halwa slow-cooked in pure ghee & loaded with dry fruits"
+        },
+        {     "id":2,
+            "name":"Kaju Kesar Katli",
+            "price":"$80",
+            "img":"kaju-katli.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {    "id":3,
+            "name":"Kaju Pista Roll", 
+            "price":"$33",
+            "img":"kaju-pista-roll.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {     "id":4,
+            "name":"Special Laddu",
+            "price":"$60",
+            "img":"laddu.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {    "id":5,
+            "name":"Angoor Rabri",
+            "price":"$54",
+            "img":"rabri.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {    "id":6,
+            "name":"Desi Jalebi",
+            "price":"$77",
+            "img":"galebi.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {    "id":7,
+            "name":"Dry Fruit Masti",
+            "price":"$40",
+            "img":"masti.jpg",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {     "id":8,
+            "name":"Badam Basket",
+            "price":"$90",
+            "img":"badam-backet.jpg",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        }
+        
+    ]
+}

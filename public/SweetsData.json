@@ -1,0 +1,60 @@
+
+{
+    "sweets":[
+        {
+            "name":"Mini Gulab Jamuns",
+            "price":"$30",
+            "img":"sweets1.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {
+            "name":"100% Ghee Moong Dal Halwa",
+            "price":"$50",
+            "img":"halva.avif",
+            "description":"Rich moong dal halwa slow-cooked in pure ghee & loaded with dry fruits"
+        },
+        {
+            "name":"Kaju Kesar Katli",
+            "price":"$80",
+            "img":"kaju-katli.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {
+            "name":"Kaju Pista Roll",
+            "price":"$33",
+            "img":"kaju-pista-roll.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {
+            "name":"Special Laddu",
+            "price":"$60",
+            "img":"laddu.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {
+            "name":"Angoor Rabri",
+            "price":"$54",
+            "img":"rabri.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {
+            "name":"Desi Jalebi",
+            "price":"$77",
+            "img":"galebi.avif",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {
+            "name":"Dry Fruit Masti",
+            "price":"$40",
+            "img":"masti.jpg",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        },
+        {
+            "name":"Badam Basket",
+            "price":"$90",
+            "img":"badam-backet.jpg",
+            "description":"Made with fresh mawa & pure ghee. Caution: Melts in your mouth!"
+        }
+        
+    ]
+}

@@ -1,0 +1,7 @@
+.sweetscontainer{
+    width: 100vw;
+  flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

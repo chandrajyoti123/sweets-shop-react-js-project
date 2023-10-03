@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 80vh;
+   
+   background: linear-gradient(135deg, rgba(8, 8, 8,0.5), rgba(253, 247, 247,0.4)), url("./background-imge.avif");
+   background-repeat: no-repeat;
+  background-size: cover;
+}
+.sunheading{
+    font-size: 55px;
+    font-weight: bold;
+    color: rgb(238, 112, 10);
+    margin: 20px 5px;
+}
